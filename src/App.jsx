@@ -5,10 +5,10 @@ import Home from './components/Home';
 import About from './components/About';
 import NotFound from './components/NotFound';
 import Contact from './components/Contact'; 
-import EmployeeList from './employees/EmployeeList';
-import AddEmployee from './employees/AddEmployee';
-import EditEmployee from './employees/EditEmployee';
-import ViewEmployee from './employees/ViewEmployee';
+import EmployeeList from './Employees/EmployeeList';
+import AddEmployee from './Employees/AddEmployee';
+import EditEmployee from './Employees/EditEmployee';
+import ViewEmployee from './Employees/ViewEmployee';
 
 
 function App() {
