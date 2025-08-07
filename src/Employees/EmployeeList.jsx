@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import EmployeeService from "../Services/EmployeeService";
+import EmployeeService from "../services/EmployeeService";
 
 function EmployeeList() {
   const [employees, setEmployees] = useState([]);
